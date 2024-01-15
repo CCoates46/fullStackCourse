@@ -1,0 +1,16 @@
+{
+  "name": "qr_code-generator",
+  "version": "1.0.0",
+  "description": "A project to create a qr code from a user-entered URL",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Clare Coates",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  }
+}
